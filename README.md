@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hola mundo, soy Italo! 
 
 <!--
 **cidbadani/cidbadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
